@@ -1,2 +1,3 @@
-# Exercicios-JS-M-Guanabara
-📚 Exercícios das aulas de JavaScript, com o Mestre Gustavo Guanabara.
+# Exercicios-JS-Guanabara
+
+📚 Exercícios das aulas de JavaScript, do Curso em vídeo palestrado por Gustavo Guanabara.
